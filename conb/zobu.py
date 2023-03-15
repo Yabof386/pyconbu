@@ -32,7 +32,7 @@ time.sleep(20)
 driver.find_element("xpath", '//*[@id="login-email"]').send_keys("Mish28v1@outlook.com")
 time.sleep(10)
 
-driver.find_element("xpath", '//*[@id="login-password"]').send_keys("Manijeni@96")
+driver.find_element("xpath", '//*[@id="login-password"]').send_keys("Manijeni@91")
 time.sleep(10)
 driver.find_element("xpath", '//*[@id="login-container"]/div/div/div[4]/button').click()
 time.sleep(10)
